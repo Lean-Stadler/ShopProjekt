@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+bLWEUZ1LVE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\stadl\\source\\repos\\Lean-Stadler\\ShopProjekt\\backend\\ShopProjekt.Api\\ShopProjekt.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stadl\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.12\\microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "C:\\Users\\stadl\\.nuget\\packages\\microsoft.openapi\\2.12.0\\microsoft.openapi.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
