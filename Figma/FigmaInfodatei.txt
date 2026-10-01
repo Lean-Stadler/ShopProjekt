@@ -1,0 +1,14 @@
+Erstes Figma, erstellt am 1.10.2026 -> https://www.figma.com/make/giHrPmE5KdKTIsdepsnfnI/Onlineshop-Wireframes-erstellen?t=PaPuVTcrXFtIaUVG-0 (Mit Google Konto anmelden)
+
+
+Was muss noch geändert werden?
+-> Name vom Shop
+-> Richtige Bilder
+-> Logo
+-> Speedcube-Timer
+-> Bessere, schönere Schriftart
+-> Quelltext
+
+Ausserdem muss ich noch eine Ansicht für den Admin-Account erstellen, welcher Produkte hinzufügen, bearbeiten und löschen können sollte.
+Wichtige Punkte für den Admin-Account:
+-> Developer-Problem Knopf, dann werde ich als Dev benachrichtigt. Mit einem Textfeld, welcher das Problem beschreibt.
